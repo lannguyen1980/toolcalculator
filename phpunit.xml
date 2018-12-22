@@ -6,7 +6,7 @@
 		</testsuite>
 	</testsuites>
 </phpunit> -->
-<phpunit bootstrap="application/tests/bootstrap.php">
+<!-- <phpunit bootstrap="application/tests/bootstrap.php">
 	<testsuites>
 		<testsuite name="TestSuite">
 			<directory>application/tests</directory>
@@ -21,6 +21,6 @@
 			<directory suffix=".php">system</directory>
 		</blacklist>
 	</filter>
-</phpunit>
+</phpunit> -->
 
 
